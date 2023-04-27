@@ -1,6 +1,5 @@
 # 42piscine
-Piscine at 42 Porto
-This was my take on the 42Piscine @Porto in 2023
+My take on the 42Piscine @Porto in 2023
 
 | Projects      | Solutions  |
 | :--------------:| :----------:|
